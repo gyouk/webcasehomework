@@ -1,0 +1,107 @@
+html {
+
+}
+body {
+    margin: 0px auto;
+}
+
+header {
+    position: relative;
+    display: flex;
+    height: 323px;
+    background-color:#445161 ;
+    color: #fff;
+}
+h1 {
+    width: 367px;
+height: 44px;
+text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+color: #ffffff;
+font-family: "Arial MT";
+font-size: 60px;
+font-weight: 400;
+}
+h2 {
+    color: #445161;
+}
+
+ul {
+    list-style-image: url("../img/check_icon.png");
+    left: 86px;
+}
+li {
+    font-size: 20px;
+}
+p {
+    font-size: 16px;
+}
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+#about {
+    display: flex;
+}
+.left {
+float: left;
+margin:50px 50px 51px 50px;
+}
+.right{
+    float: right;
+    margin:50px 50px 59px 50px;
+}
+.colum {
+    width: 700px;
+}
+.block {
+    display: flex;
+}
+#dignity{
+
+    background-color: #f5f5f5;
+}
+.pluses {
+    display: flex;
+}
+.title_mid{
+    font-size: 30px;
+    padding: 25px 0 25px 0;
+    color: #445161;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 36px;
+
+}
+.plus {
+    display: -webkit-inline-box;
+    width: 561px;
+	margin-left: 50px;
+}
+.plus img{
+    margin:10px;
+    padding-left: 20px;
+}
+
+.scrinshots{
+    display: flex;
+}
+.scrinshot{
+    display: flex;
+	padding: 30px;
+}
+.scrin-cont{
+margin-left:30px;
+}
+#reviews{
+
+    background-color: #f5f5f5;
+}
+.reviews{
+  background-image: url(accets/img/bg_review.png) no-repeat;
+display: flex;
+}
+
+.copyright{
+  text-align: center;
+}
